@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+hwinfo-sensors.json
+hwinfo-measurements.json
+hwinfo-bridge-status.txt
+hwinfo-portable/
+*.exe
+*.zip
+*.INI
+*.ini
+battery-report.html
